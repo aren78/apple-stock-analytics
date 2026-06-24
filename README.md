@@ -28,4 +28,5 @@ Tableau
 
 ## Dashboard
 
-(Add screenshot here)
+tableau_dashboard.png
+
