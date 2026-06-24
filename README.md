@@ -5,7 +5,6 @@
 - Python
 - Pandas
 - MySQL
-- AWS S3
 - Tableau
 
 ## KPIs
