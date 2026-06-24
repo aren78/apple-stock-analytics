@@ -28,5 +28,5 @@ Tableau
 
 ## Dashboard
 
-tableau_dashboard.png
+(tableau_dashboard.png)
 
